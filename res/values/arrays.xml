@@ -320,4 +320,27 @@
         <item>3</item>
     </string-array>
 
+    <!-- Volte Icon Styles -->
+    <string-array name="volte_icon_style_entries">
+        <item>@string/volte_icon_style_0</item>
+        <item>@string/volte_icon_style_1</item>
+        <item>@string/volte_icon_style_2</item>
+        <item>@string/volte_icon_style_3</item>
+        <item>@string/volte_icon_style_4</item>
+        <item>@string/volte_icon_style_5</item>
+        <item>@string/volte_icon_style_6</item>
+        <item>@string/volte_icon_style_7</item>
+    </string-array>
+
+    <string-array name="volte_icon_style_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+
 </resources>
