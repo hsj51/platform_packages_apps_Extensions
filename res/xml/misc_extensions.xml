@@ -38,11 +38,14 @@
              android:summary="@string/show_fourg_icon_summary"
              android:defaultValue="false"/>
 
-         <org.aospextended.extensions.preference.SystemSettingSwitchPreference
-             android:key="volte_icon"
-             android:title="@string/volte_icon_title"
-             android:summary="@string/volte_icon_summary"
-             android:defaultValue="true"/>
+         <org.aospextended.extensions.preference.SystemSettingListPreference
+             android:key="volte_icon_style"
+             android:title="@string/volte_icon_style_title"
+             android:entries="@array/volte_icon_style_entries"
+             android:entryValues="@array/volte_icon_style_values"
+             android:summary="%s"
+             android:dependency="volte_icon"
+             android:defaultValue="9"/>
 
          <org.aospextended.extensions.preference.SystemSettingSwitchPreference
              android:key="roaming_indicator_icon"

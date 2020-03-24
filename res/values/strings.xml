@@ -237,10 +237,6 @@
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
 
-    <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon</string>
-
     <!-- Power menu on lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Disable power menu on lock screen</string>
     <string name="lockscreen_power_menu_disabled_summary">This will only disable the power menu on secure lock screens</string>
@@ -534,5 +530,19 @@
     <string name="theme_accent_picker_title">Accent color</string>
     <string name="theme_accent_picker_summary">Select system theme accent color</string>
     <string name="theme_accent_picker_default">Default</string>
+
+    <!-- Volte Icon Style -->
+    <string name="volte_icon_style_title">VoLTE icon style</string>
+    <string name="volte_icon_style_0">None</string>
+    <string name="volte_icon_style_1">Icon 1</string>
+    <string name="volte_icon_style_2">Icon 2</string>
+    <string name="volte_icon_style_3">Icon 3</string>
+    <string name="volte_icon_style_4">Icon 4</string>
+    <string name="volte_icon_style_5">Icon 5</string>
+    <string name="volte_icon_style_6">Icon 6</string>
+    <string name="volte_icon_style_7">Icon 7</string>
+    <string name="volte_icon_style_7">Icon 7</string>
+    <string name="volte_icon_style_8">Icon 8</string>
+    <string name="volte_icon_style_9">AEX default</string>
 
 </resources>
